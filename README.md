@@ -4,7 +4,7 @@ Divided users into several groups which have the same composition for user chara
 - import pandas
 - import numpy
 - from collections import Counter
-# The information of the modules in this repo.
+# The information of the modules in this repo
 This repo has two modules, grouping and adjust_number.
 1. __*grouping(total_group, df, concat_behavior)*__
    - _total_group_: the number of groups you want to get.
